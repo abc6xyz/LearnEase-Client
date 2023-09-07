@@ -30,7 +30,7 @@ _LearnEase is an innovative virtual classroom application that takes video confe
 - Change the current working directory to where you want to store the LearnEase project.
 - Run the following command to clone the frontend repository:
 ```bash
-git clone https://github.com/shahsad-kp/LearnEase-Client.git
+git clone https://github.com/abc6xyz/LearnEase-Client.git
 ```
 #### 3 Install Frontend Dependencies:
 - Change the current working directory to the project's frontend folder (e.g., LearnEase-Client).
@@ -40,7 +40,7 @@ npm install
 ```
 
 #### 4 Environment Variables:
-- Refer [environment variables](https://github.com/shahsad-kp/LearnEase-Client#environment-variables) for setting up the required environment variables for the LearnEase frontend.
+- Refer [environment variables](https://github.com/abc6xyz/LearnEase-Client#environment-variables) for setting up the required environment variables for the LearnEase frontend.
 
 
 #### 5 Start the Development Server (Frontend):
@@ -55,7 +55,7 @@ Before deploying your application, make sure to set up the backend server on you
 
 For backend deployment, please refer to the backend repository for instructions and deployment guides:
 
-[LearnEase Backend Repository](https://github.com/shahsad-kp/LearnEase-Server)
+[LearnEase Backend Repository](https://github.com/abc6xyz/LearnEase-Server)
 
 ## Environment Variables
 
@@ -68,7 +68,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Feedback
 
-If you have any feedback, please reach me at shahsadkpklr@gmail.com or connect me at [LinkedIn](https://www.linkedin.com/in/shahsad-kp/)
+If you have any feedback, please reach me at byte11101100@gmail.com or connect me at [LinkedIn](https://www.linkedin.com/)
 
 
 ## Support
